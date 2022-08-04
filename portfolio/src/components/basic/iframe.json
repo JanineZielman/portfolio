@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_basic_iframes",
+  "info": {
+    "displayName": "Iframe",
+    "icon": "paperclip"
+  },
+  "options": {},
+  "attributes": {
+    "iframe": {
+      "type": "string"
+    }
+  }
+}

@@ -36,6 +36,21 @@
       "type": "relation",
       "relation": "oneToMany",
       "target": "api::category.category"
+    },
+    "iframe": {
+      "type": "string"
+    },
+    "content": {
+      "type": "dynamiczone",
+      "components": [
+        "basic.image",
+        "basic.slider",
+        "basic.text",
+        "basic.iframe"
+      ]
+    },
+    "number": {
+      "type": "biginteger"
     }
   }
 }

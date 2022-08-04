@@ -1,0 +1,20 @@
+{
+  "collectionName": "components_basic_sliders",
+  "info": {
+    "displayName": "Slider",
+    "icon": "arrows-alt-h"
+  },
+  "options": {},
+  "attributes": {
+    "slider": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": true
+    }
+  }
+}
